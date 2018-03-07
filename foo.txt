@@ -4,4 +4,8 @@ hola que tal
 fooooooo
 
 
+<<<<<<< HEAD
 mas work`
+=======
+adios
+>>>>>>> 87828ed37d85311f770da8c3866ca570c467adc4
